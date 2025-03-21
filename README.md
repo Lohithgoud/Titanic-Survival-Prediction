@@ -45,9 +45,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - The model provides a baseline for Titanic survival prediction.
 - Further improvements can be made by testing other machine learning models, performing hyperparameter tuning, and feature engineering.
 
-## Contributing
-Feel free to contribute by improving the model or adding new features. Fork the repository and submit a pull request.
-
-## License
-This project is open-source and available under the MIT License.
 
