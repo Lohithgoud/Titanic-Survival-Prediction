@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
    jupyter notebook
    ```
 
-3. Open `titanic_survival_prediction.ipynb` and run all cells.
+3. Open `Titanic_Survival_Prediction_By_Lohith.ipynb` and run all cells.
 
 ## Model Training & Evaluation
 - The dataset is split into training and testing sets (70-30 split).
